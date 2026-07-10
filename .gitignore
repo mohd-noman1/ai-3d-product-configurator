@@ -1,0 +1,21 @@
+# --- Security / Secrets ---
+.env
+
+# --- Python Virtual Environments ---
+hackathon_env/
+venv/
+env/
+
+# --- Python Cache / Compiled Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor Folders ---
+.vscode/
+.idea/
